@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-CLaim", "SOLID-CLaim\SOLID-CLaim.csproj", "{71EA93D4-8C89-496E-A464-F81BC5CC6D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EA93D4-8C89-496E-A464-F81BC5CC6D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA93D4-8C89-496E-A464-F81BC5CC6D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA93D4-8C89-496E-A464-F81BC5CC6D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA93D4-8C89-496E-A464-F81BC5CC6D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3294F076-64C6-4FCE-B3A1-C89799665051}
+	EndGlobalSection
+EndGlobal
